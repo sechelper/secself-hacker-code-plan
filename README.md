@@ -2,7 +2,7 @@
 
 坤哥发起的黑帽编程计划，脱离脚本小子的困境。  
 
-b站视频合集：https://space.bilibili.com/1233892570
+b站视频合集（三连支持坤哥）：https://www.bilibili.com/video/BV1vM411r7GW
 
 在线教程：https://hcp.secself.com/
 
@@ -13,4 +13,4 @@ b站视频合集：https://space.bilibili.com/1233892570
 
 ## 💰守护坤哥发际线
 
-<center> <img style="height 300px; width: 300px;" src="F:\Temp\README\appreciatio- code1-16837115258604.jpg"></center>
+<center> <img style="height 300px; width: 500px;"  src="https://paper.static.secself.com/img/qrcode/appreciatio-%20code2.jpg"></center>
